@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\services\\auth-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\services\\auth-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\login\\login.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\login\\login.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\sign-up\\sign-up.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\sign-up\\sign-up.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\sign-up\\sign-up.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\sign-up\\sign-up.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\catigories\\catigories.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\catigories\\catigories.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\test\\12-03-2025\\12-03-2025.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "login.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\login\\login.component.ts",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\login\\login.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\login\\login.component.ts",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\login\\login.component.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T13:00:34.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "auth-service.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\Services\\auth-service.service.ts",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\Services\\auth-service.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\Services\\auth-service.service.ts",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\Services\\auth-service.service.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T11:41:34.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-16T11:30:17.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T09:06:48.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "product.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\product\\product.component.html",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\product\\product.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\product\\product.component.html",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\product\\product.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-12T13:43:54.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "catigories.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\catigories\\catigories.component.html",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\catigories\\catigories.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\catigories\\catigories.component.html",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\catigories\\catigories.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-12T13:41:42.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "login.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\login\\login.component.html",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\login\\login.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\login\\login.component.html",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\login\\login.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-12T13:33:07.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sign-up.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\sign-up\\sign-up.component.ts",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\sign-up\\sign-up.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\sign-up\\sign-up.component.ts",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\sign-up\\sign-up.component.ts",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-12T13:23:04.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "sign-up.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\sign-up\\sign-up.component.html",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\sign-up\\sign-up.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\sign-up\\sign-up.component.html",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\sign-up\\sign-up.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-12T13:20:41.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-12T13:10:16.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "nav-bar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\nav-bar\\nav-bar.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-12T13:09:18.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\index.html",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\index.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\index.html",
+              "RelativeToolTip": "12-03-2025.client\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-12T13:07:39.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\app.component.html",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\app.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\test\\12-03-2025\\12-03-2025.client\\src\\app\\app.component.html",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\app.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-12T13:07:24.736Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

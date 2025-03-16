@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\03-13-2025\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CB3DD8D-F679-4CFA-A428-250BC9CD9717}|03-13-2025.client\\03-13-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\03-13-2025\\03-13-2025.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{4CB3DD8D-F679-4CFA-A428-250BC9CD9717}|03-13-2025.client\\03-13-2025.client.esproj|solutionrelative:03-13-2025.client\\src\\app\\app.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\03-13-2025\\03-13-2025.client\\src\\app\\app.component.ts",
+              "RelativeDocumentMoniker": "03-13-2025.client\\src\\app\\app.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\03-13-2025\\03-13-2025.client\\src\\app\\app.component.ts",
+              "RelativeToolTip": "03-13-2025.client\\src\\app\\app.component.ts",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-13T09:16:56.522Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

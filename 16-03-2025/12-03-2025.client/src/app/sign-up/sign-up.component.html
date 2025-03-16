@@ -1,0 +1,26 @@
+
+
+
+<form  #register="ngForm" (ngSubmit)="postData(register.value)">
+  <div class="form-row">
+
+
+    <div class="form-group col-md-6">
+      <label>Name</label>
+      <input type="text" name="name" class="form-control" ngModel placeholder="Name">
+    </div><br />
+    <div class="form-group col-md-6">
+      <label>Age</label>
+      <input type="text" name="age" class="form-control" ngModel placeholder="Age">
+    </div><br />
+    <div class="form-group col-md-6">
+      <label>Email</label>
+      <input type="text" name="Email" class="form-control" ngModel placeholder="Email">
+    </div><br />
+    <div class="form-group col-md-6">
+      <label>Password</label>
+      <input type="text" name="password" class="form-control" ngModel placeholder="Password">
+    </div><br />
+  </div>
+    <button type="submit" class="btn btn-primary">Sign in</button>
+</form>
