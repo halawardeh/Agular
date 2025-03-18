@@ -1,13 +1,26 @@
-<div class="list-group">
-  <a href="#" class="list-group-item list-group-item-action">Dapibus ac facilisis in</a>
+<div class="container mt-4" style="margin-left: 250px; max-width: calc(100% - 250px);">
+  <div class="text-center">
+    <button type="button" routerLink="/app-add-catigory" class="btn btn-purple-gradient mb-3">
+      Add New Category
+    </button>
+  </div>
 
-
-  <a routerLink="/app-product" class="list-group-item list-group-item-action list-group-item-primary">This is a primary list group item</a>
-  <a href="#" class="list-group-item list-group-item-action list-group-item-secondary">This is a secondary list group item</a>
-  <a href="#" class="list-group-item list-group-item-action list-group-item-success">This is a success list group item</a>
-  <a href="#" class="list-group-item list-group-item-action list-group-item-danger">This is a danger list group item</a>
-  <a href="#" class="list-group-item list-group-item-action list-group-item-warning">This is a warning list group item</a>
-  <a href="#" class="list-group-item list-group-item-action list-group-item-info">This is a info list group item</a>
-  <a href="#" class="list-group-item list-group-item-action list-group-item-light">This is a light list group item</a>
-  <a href="#" class="list-group-item list-group-item-action list-group-item-dark">This is a dark list group item</a>
+  <table class="table table-dark table-hover text-center shadow-lg">
+    <thead class="table-purple">
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Name</th>
+        <th scope="col">Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let item of categories">
+        <td>{{item.id}}</td>
+        <td>{{item.name}}</td>
+        <td>
+          <a routerLink="/app-product/{{item.id}}" class="btn btn-purple-gradient btn-sm">View Products</a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>

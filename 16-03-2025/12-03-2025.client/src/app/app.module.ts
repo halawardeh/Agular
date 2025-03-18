@@ -10,6 +10,11 @@ import { CatigoriesComponent } from './catigories/catigories.component';
 import { ProductComponent } from './product/product.component';
 import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
+import { AddProductComponent } from './add-product/add-product.component';
+import { AddCatigoryComponent } from './add-catigory/add-catigory.component';
+import { StructureComponent } from './structure/structure.component';
+import { ParentComponent } from './parent/parent.component';
+import { ChildComponent } from './child/child.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -18,6 +23,11 @@ import { HttpClientModule } from '@angular/common/http';
     LoginComponent,
     CatigoriesComponent,
     ProductComponent,
+    AddProductComponent,
+    AddCatigoryComponent,
+    StructureComponent,
+    ParentComponent,
+    ChildComponent,
 
   ],
   imports: [
