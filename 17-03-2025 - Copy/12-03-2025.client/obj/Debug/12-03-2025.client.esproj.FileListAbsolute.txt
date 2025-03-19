@@ -1,0 +1,6 @@
+C:\Users\Orange\Desktop\.net\.net\12-03-2025\12-03-2025.client\obj\Debug\12-03-2025.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Angular\Agular\12-03-2025\12-03-2025.client\obj\Debug\12-03-2025.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\test\12-03-2025\12-03-2025.client\obj\Debug\12-03-2025.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Angular\Agular\16-03-2025\12-03-2025.client\obj\Debug\12-03-2025.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Angular\Agular\17-03-2025\12-03-2025.client\obj\Debug\12-03-2025.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Angular\Agular\17-03-2025 - Copy\12-03-2025.client\obj\Debug\12-03-2025.client.esproj.CoreCompileInputs.cache

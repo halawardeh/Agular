@@ -1,0 +1,25 @@
+<div class="container mt-4" style="margin-left: 250px; max-width: calc(100% - 250px);">
+  <div class="card form-card shadow-lg">
+    <div class="card-body">
+      <h3 class="text-center mb-4">Add New Product</h3>
+      <form #AddProduct="ngForm" (ngSubmit)="AddNewProduct(AddProduct.value)">
+        <div class="form-group">
+          <label>Name</label>
+          <input type="text" name="name" class="form-control stylish-input" ngModel placeholder="Enter product name">
+        </div>
+
+        <div class="form-group">
+          <label>Categories</label>
+          <select name="categories" class="custom-select stylish-input">
+            <option value="" disabled selected>-- select category --</option>
+            <option *ngFor="let item of categories" [value]="item.id">{{item.name}}</option>
+          </select>
+        </div>
+
+        <div class="text-center mt-4">
+          <button type="submit" class="btn btn-purple-gradient">Add</button>
+        </div>
+      </form>
+    </div>
+  </div>
+</div>

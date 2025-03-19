@@ -1,0 +1,68 @@
+/* تصميم البطاقة */
+.form-card {
+  max-width: 500px;
+  margin: auto;
+  background: linear-gradient(135deg, #2c2c54, #474787);
+  color: white;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+/* تنسيق حقول الإدخال */
+.stylish-input {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid #6a11cb; /* اللون البنفسجي */
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+  width: 100%; /* تحديد عرض الحقل */
+  box-sizing: border-box;
+}
+
+  .stylish-input::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  .stylish-input:focus {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: #2575fc;
+    outline: none;
+  }
+
+/* تنسيق السيلكشن */
+.custom-select {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid #6a11cb;
+  color: black;
+  border-radius: 10px;
+  padding: 10px;
+  width: 100%; /* يجعل السيلكشن بنفس عرض الحقل */
+  box-sizing: border-box;
+}
+
+  .custom-select:focus {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: #2575fc;
+    outline: none;
+  }
+
+/* تصميم الزر */
+.btn-purple-gradient {
+  background: linear-gradient(45deg, #6a11cb, #2575fc);
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 25px;
+  transition: 0.3s;
+  width: 100%; /* الزر يأخذ العرض الكامل */
+}
+
+  .btn-purple-gradient:hover {
+    background: linear-gradient(45deg, #4a0d9c, #1a4fbf);
+  }
+
+/* تأثير الظل */
+.shadow-lg {
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
+}
