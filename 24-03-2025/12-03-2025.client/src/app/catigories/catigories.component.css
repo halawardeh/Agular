@@ -1,0 +1,37 @@
+/* زر بنفسجي ملكي */
+.btn-purple-gradient {
+  background: linear-gradient(45deg, #8e44ad, #9b59b6); /* لون بنفسجي فاتح */
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  font-size: 16px;
+  border-radius: 25px;
+  transition: 0.3s;
+}
+
+  .btn-purple-gradient:hover {
+    background: linear-gradient(45deg, #7a3d8b, #8e44ad); /* تأثير بنفسي أغمق لكن ليس داكنًا جدًا */
+  }
+
+/* جدول بتصميم أنيق */
+.table-dark {
+  background: #f3e5f5; /* خلفية فاتحة بلون بنفسي ناعم */
+  color: #6a1b9a; /* نص بنفسجي داكن */
+  border-radius: 10px;
+/*  width:80vw;*/
+  overflow: hidden;
+}
+
+.table-purple {
+  background: linear-gradient(45deg, #ab47bc, #ba68c8); /* تدرج لوني فاتح بنفسجي */
+  color: white;
+}
+
+.table-hover tbody tr:hover {
+  background: rgba(255, 255, 255, 0.1); /* تأثير هاف على الصفوف */
+}
+
+/* ظل لطيف */
+.shadow-lg {
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1); /* ظل أخف ليتناسب مع الألوان الفاتحة */
+}

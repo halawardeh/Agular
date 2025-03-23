@@ -8,14 +8,13 @@ import { Component } from '@angular/core';
 })
 
 export class ParentComponent {
-  receivedMessage: string = '';
   showChild: boolean = false; // Child is hidden by default
-
+  name:string=''
   toggleChild() {
     this.showChild = !this.showChild; // Toggle between showing and hiding the child
   }
 
   receiveMessage(message: string) {
-    this.receivedMessage = message;
+    this.name = message;
   }
 }

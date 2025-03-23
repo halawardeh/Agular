@@ -10,6 +10,8 @@ import { AddCatigoryComponent } from './add-catigory/add-catigory.component';
 import { StructureComponent } from './structure/structure.component';
 import { ParentComponent } from './parent/parent.component';
 import { ChildComponent } from './parent/child/child.component';
+import { EditCatigoryComponent } from './edit-catigory/edit-catigory.component';
+import { EditProductComponent } from './edit-product/edit-product.component';
 
 const routes: Routes = [
   { path: 'nav_bar_page', component: NavBarComponent },
@@ -23,6 +25,8 @@ const routes: Routes = [
   { path: 'app-structure', component: StructureComponent },
   { path: 'app-parent', component: ParentComponent },
   { path: 'app-child', component: ChildComponent },
+  { path: 'app-edit-catigory/:id', component: EditCatigoryComponent },
+  { path: 'app-edit-product/:id', component: EditProductComponent },
 ];
 
 @NgModule({

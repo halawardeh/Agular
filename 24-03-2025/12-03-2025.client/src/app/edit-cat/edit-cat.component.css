@@ -1,0 +1,48 @@
+/* نفس تصميم البطاقة السابقة */
+.form-card {
+  max-width: 500px;
+  margin: auto;
+  background: linear-gradient(135deg, #2c2c54, #474787);
+  color: white;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+/* نفس تصميم حقول الإدخال */
+.stylish-input {
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid #6a11cb;
+  color: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+  .stylish-input::placeholder {
+    color: rgba(255, 255, 255, 0.6);
+  }
+
+  .stylish-input:focus {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: #2575fc;
+    outline: none;
+  }
+
+/* نفس تصميم الزر */
+.btn-purple-gradient {
+  background: linear-gradient(45deg, #6a11cb, #2575fc);
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 25px;
+  transition: 0.3s;
+}
+
+  .btn-purple-gradient:hover {
+    background: linear-gradient(45deg, #4a0d9c, #1a4fbf);
+  }
+
+/* ظل خفيف للبطاقة */
+.shadow-lg {
+  box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.3);
+}

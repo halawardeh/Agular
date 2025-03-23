@@ -2,6 +2,7 @@ import { Component } from '@angular/core';
 import { AuthServiceService } from '../Services/auth-service.service';
 import { ActivatedRoute, Route, Router } from '@angular/router';
 
+
 @Component({
   selector: 'app-edit-catigory',
   standalone: false,
@@ -17,7 +18,7 @@ export class EditCatigoryComponent {
 
   ngOnInit(data: any) {
     this.catID = this.Active.snapshot.paramMap.get("id");
-    this._http.GetCatByID(this.catID, data).subscribe((data) => {
+    this._http.GetCatByID(this.catID).subscribe((data) => {
       this.CatContainer=data
     })
   }

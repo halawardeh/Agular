@@ -1,0 +1,17 @@
+<div class="container mt-4" style="margin-left: 250px; max-width: calc(100% - 250px);">
+  <button type="button" routerLink="/app-add-product" class="btn btn-purple-gradient mb-4">Add New Product</button>
+
+  <div class="row" style="gap: 15px;">
+    <div class="col-md-3" *ngFor="let item of Products">
+      <div class="card product-card shadow">
+        <div class="card-body">
+          <h5 class="card-title">{{item.name}}</h5>
+          <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+          <td>
+            <a routerLink="/app-edit-produc/{{item.id}}" class="btn btn-purple-gradient btn-sm">Edit Product</a>
+          </td>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

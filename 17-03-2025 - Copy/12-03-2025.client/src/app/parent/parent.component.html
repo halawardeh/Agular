@@ -1,7 +1,7 @@
 <button (click)="toggleChild()">Show/Hide Child</button>
 
-<div *ngIf="showChild">
+<div >
   <app-child2 (messageEvent)="receiveMessage($event)"></app-child2>
 </div>
 
-<p>Received message: {{ receivedMessage }}</p>
+<p>Received message: {{ name }}</p>

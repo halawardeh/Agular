@@ -3,6 +3,54 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\services\\auth-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\services\\auth-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\add-product\\add-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\add-product\\add-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\product\\product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\product\\product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\app.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\edit-catigory\\edit-catigory.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\edit-catigory\\edit-catigory.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\add-product\\add-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\add-product\\add-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\edit-catigory\\edit-catigory.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\edit-catigory\\edit-catigory.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\catigories\\catigories.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\catigories\\catigories.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\add-product\\add-product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\add-product\\add-product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\add-catigory\\add-catigory.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\add-catigory\\add-catigory.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -19,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\nav-bar\\nav-bar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\app-routing.module.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\parent\\parent.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
       "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\parent\\parent.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
@@ -31,24 +75,8 @@
       "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\parent\\child\\child.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\add-product\\add-product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\add-product\\add-product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\add-product\\add-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\add-product\\add-product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\add-catigory\\add-catigory.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\add-catigory\\add-catigory.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\add-product\\add-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\add-product\\add-product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\catigories\\catigories.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\catigories\\catigories.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\catigories\\catigories.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -69,22 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\product\\product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\product\\product.component.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\product\\product.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\product\\product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\product\\product.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\services\\auth-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\services\\auth-service.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|c:\\users\\orange\\desktop\\angular\\agular\\19-03-2025\\12-03-2025.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{145D1648-1498-45F2-8F26-CF95EFD4DB48}|12-03-2025.client\\12-03-2025.client.esproj|solutionrelative:12-03-2025.client\\src\\app\\app.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,60 +106,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 21,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "parent.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\parent\\parent.component.ts",
-              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\parent\\parent.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\parent\\parent.component.ts",
-              "RelativeToolTip": "12-03-2025.client\\src\\app\\parent\\parent.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-19T08:41:59.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "child.component.html",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\parent\\child\\child.component.html",
-              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\parent\\child\\child.component.html",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\parent\\child\\child.component.html",
-              "RelativeToolTip": "12-03-2025.client\\src\\app\\parent\\child\\child.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-19T08:41:20.501Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "child.component.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\parent\\child\\child.component.ts",
-              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\parent\\child\\child.component.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\parent\\child\\child.component.ts",
-              "RelativeToolTip": "12-03-2025.client\\src\\app\\parent\\child\\child.component.ts",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-19T08:39:05.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "app-routing.module.ts",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\app-routing.module.ts",
-              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\app-routing.module.ts",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\app-routing.module.ts",
-              "RelativeToolTip": "12-03-2025.client\\src\\app\\app-routing.module.ts",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-19T08:35:01.166Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -158,7 +118,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
+              "Title": "edit-catigory.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\edit-catigory\\edit-catigory.component.html",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\edit-catigory\\edit-catigory.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\edit-catigory\\edit-catigory.component.html",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\edit-catigory\\edit-catigory.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-20T09:01:25.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "app.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\app.module.ts",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\app.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\app.module.ts",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\app.module.ts",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-20T08:59:54.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "edit-catigory.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\edit-catigory\\edit-catigory.component.ts",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\edit-catigory\\edit-catigory.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\edit-catigory\\edit-catigory.component.ts",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\edit-catigory\\edit-catigory.component.ts",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-20T08:38:43.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "parent.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\parent\\parent.component.ts",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\parent\\parent.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\parent\\parent.component.ts",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\parent\\parent.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T08:41:59.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "child.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\parent\\child\\child.component.html",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\parent\\child\\child.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\parent\\child\\child.component.html",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\parent\\child\\child.component.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-19T08:41:20.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "child.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\parent\\child\\child.component.ts",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\parent\\child\\child.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\parent\\child\\child.component.ts",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\parent\\child\\child.component.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T08:39:05.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app-routing.module.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\app-routing.module.ts",
+              "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\app-routing.module.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\app-routing.module.ts",
+              "RelativeToolTip": "12-03-2025.client\\src\\app\\app-routing.module.ts",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-19T08:35:01.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "parent.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\parent\\parent.component.html",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\parent\\parent.component.html",
@@ -166,24 +210,23 @@
               "RelativeToolTip": "12-03-2025.client\\src\\app\\parent\\parent.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-19T08:29:21.184Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-19T08:29:21.184Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "add-product.component.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\add-product\\add-product.component.ts",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\add-product\\add-product.component.ts",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\add-product\\add-product.component.ts",
               "RelativeToolTip": "12-03-2025.client\\src\\app\\add-product\\add-product.component.ts",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-18T18:55:05.723Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 22,
               "Title": "login.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\login\\login.component.html",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\login\\login.component.html",
@@ -195,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
               "Title": "sign-up.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\sign-up\\sign-up.component.html",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\sign-up\\sign-up.component.html",
@@ -207,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "add-catigory.component.css",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\add-catigory\\add-catigory.component.css",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\add-catigory\\add-catigory.component.css",
@@ -219,7 +262,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "add-catigory.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\add-catigory\\add-catigory.component.html",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\add-catigory\\add-catigory.component.html",
@@ -227,12 +270,11 @@
               "RelativeToolTip": "12-03-2025.client\\src\\app\\add-catigory\\add-catigory.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T18:29:41.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T18:29:41.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "add-product.component.css",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\add-product\\add-product.component.css",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\add-product\\add-product.component.css",
@@ -244,19 +286,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "add-product.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\add-product\\add-product.component.html",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\add-product\\add-product.component.html",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\add-product\\add-product.component.html",
               "RelativeToolTip": "12-03-2025.client\\src\\app\\add-product\\add-product.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-18T18:28:52.458Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "catigories.component.css",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\catigories\\catigories.component.css",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\catigories\\catigories.component.css",
@@ -268,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 23,
               "Title": "product.component.css",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\product\\product.component.css",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\product\\product.component.css",
@@ -280,55 +322,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 3,
               "Title": "product.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\product\\product.component.html",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\product\\product.component.html",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\product\\product.component.html",
               "RelativeToolTip": "12-03-2025.client\\src\\app\\product\\product.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-18T17:43:10.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 9,
               "Title": "catigories.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\catigories\\catigories.component.html",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\catigories\\catigories.component.html",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\catigories\\catigories.component.html",
               "RelativeToolTip": "12-03-2025.client\\src\\app\\catigories\\catigories.component.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2025-03-18T17:42:56.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 0,
               "Title": "auth-service.service.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\Services\\auth-service.service.ts",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\Services\\auth-service.service.ts",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\Services\\auth-service.service.ts",
               "RelativeToolTip": "12-03-2025.client\\src\\app\\Services\\auth-service.service.ts",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
-              "WhenOpened": "2025-03-18T17:36:39.956Z"
+              "WhenOpened": "2025-03-18T17:36:39.956Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 2,
               "Title": "product.component.ts",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\product\\product.component.ts",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\product\\product.component.ts",
               "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\product\\product.component.ts",
               "RelativeToolTip": "12-03-2025.client\\src\\app\\product\\product.component.ts",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwB4AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2025-03-18T17:35:26.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 20,
               "Title": "nav-bar.component.css",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\nav-bar\\nav-bar.component.css",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\nav-bar\\nav-bar.component.css",
@@ -340,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 15,
               "Title": "nav-bar.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\nav-bar\\nav-bar.component.html",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\nav-bar\\nav-bar.component.html",
@@ -348,12 +391,11 @@
               "RelativeToolTip": "12-03-2025.client\\src\\app\\nav-bar\\nav-bar.component.html",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-18T17:28:57.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T17:28:57.544Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 10,
               "Title": "app.component.html",
               "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular\\Agular\\19-03-2025\\12-03-2025.client\\src\\app\\app.component.html",
               "RelativeDocumentMoniker": "12-03-2025.client\\src\\app\\app.component.html",

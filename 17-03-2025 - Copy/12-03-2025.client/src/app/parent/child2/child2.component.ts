@@ -12,7 +12,7 @@ export class Child2Component {
   @Output() messageEvent = new EventEmitter<string>();
 
   sendMessage() {
-    this.messageEvent.emit("مرحبا من المكون الابن!");
+    this.messageEvent.emit("Hala");
   }
 }
 
